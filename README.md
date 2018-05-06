@@ -24,21 +24,21 @@ DELETE todos/{id}
 Create Todo
 POST todos
 
-# Request sample
-# {
-#   "name": "Todo 2",
-#   "discription": "todo Two",
-#   "completed": true,
-#   "due": "02/06/2018"
-# }
+ Request sample
+ {
+   "name": "Todo 2",
+   "discription": "todo Two",
+   "completed": true,
+   "due": "02/06/2018"
+ }
 
 Update Book
 PUT todos/{id}
 
-# Request sample
-# {
-#   "name": "Todo 2",
-#   "discription": "todo Two",
-#   "completed": true,
-#   "due": "02/06/2018"
-# }
+ Request sample
+ {
+   "name": "Todo 2",
+   "discription": "todo Two",
+   "completed": true,
+   "due": "02/06/2018"
+ }
